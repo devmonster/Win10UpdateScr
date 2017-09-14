@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win10UpgradeSS", "Win10UpgradeSS\Win10UpgradeSS.csproj", "{C43DAAC6-8336-4839-B4B9-0327055C9E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43DAAC6-8336-4839-B4B9-0327055C9E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43DAAC6-8336-4839-B4B9-0327055C9E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43DAAC6-8336-4839-B4B9-0327055C9E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43DAAC6-8336-4839-B4B9-0327055C9E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B3EA48-5839-4D91-8D14-7D1DDFBDC2E5}
+	EndGlobalSection
+EndGlobal
